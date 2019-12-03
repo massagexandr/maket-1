@@ -18,6 +18,9 @@ header {
     max-width: 1160px;
     width: 100%;
     height: 710px;
+    margin-left: 60px;
+    margin-top: 0px;
+    margin-right: 60px;
     background: #FAFAFA;
 }
 
@@ -89,4 +92,16 @@ header {
 .identic-svg {
     margin: 167px 669px 411px 160px;
 
+}
+
+.Rectangle52{
+    position: absolute;
+width: 565px;
+height: 492px;
+left: 1220px;
+top: 109px;
+
+}
+.Rectangle-svg{
+   margin:  109px 0 109 655
 }
