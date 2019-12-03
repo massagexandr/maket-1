@@ -19,7 +19,7 @@ header {
     width: 100%;
     height: 710px;
     background: #FAFAFA;
-    }
+}
 
 
 .midle-menu-bar,
@@ -72,7 +72,7 @@ header {
     width: 341px;
     height: 132px;
     left: 220px;
-    top: 400px;
+    top: 167px;
     font-family: Lato;
     font-style: normal;
     font-weight: 900;
@@ -84,4 +84,9 @@ header {
     align-items: center;
 
     color: #032F48;
+}
+
+.identic-svg {
+    margin: 167px 669px 411px 160px;
+
 }
