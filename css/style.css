@@ -70,7 +70,7 @@ header {
     padding: 2px;
 }
 
-.Identic {
+.main-content-left-side {
     position: absolute;
     width: 341px;
     height: 132px;
@@ -89,19 +89,25 @@ header {
     color: #032F48;
 }
 
+/*
 .identic-svg {
     margin: 167px 669px 411px 160px;
 
 }
+*/
 
-.Rectangle52{
+.right-block-name {
     position: absolute;
-width: 565px;
-height: 492px;
-left: 1220px;
-top: 109px;
+    width: 565px;
+    height: 492px;
+    left: 1220px;
+    top: 109px;
+
 
 }
-.Rectangle-svg{
-   margin:  109px 0 109 655
+
+
+.main-content-right-side {
+    background: #032F48;
+    margin: 109px 0 109 655
 }
